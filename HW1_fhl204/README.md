@@ -9,7 +9,7 @@ Assignment 1
   3. Paired with Sofiya Elyukin (se1296) to fork and clone the repo
 
 Assignment 2
-Environment setup:
+Environment setup
   1. Created PUI2016_fhl204 directory in compute
   2. Edited .bashrc using vi adding alias for refrencing the PUI2016_fhl204 folder
   3. Created GitHUB repository
