@@ -19,3 +19,5 @@ Environment setup
   
 ![Screenshot 1 Assignment 2: my .bashrc](https://github.com/fhl204/PUI2016_fhl204/blob/master/HW1_fhl204/bashrc_pui2016alias.JPG)
 ![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](https://github.com/fhl204/PUI2016_fhl204/blob/master/HW1_fhl204/aliasPUI2016.JPG)
+
+Extra credit assignment attempted.
