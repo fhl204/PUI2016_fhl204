@@ -17,9 +17,9 @@ Chunqing Xu (cx495), Franz Loza (fhl204), Jianghao Zhu (jz2575)
   
 Contribution:  All members contributed to the assignment with JZ providing lead technical support.
   1. FL started with connection to data using API
-  2. JZ completed script for show_bus_locations and get_bus_info 
+  2. CX and JZ worked on assignment 1 with JZ completing script for show_bus_locations and get_bus_info 
   3. CX and FL selected dataset for assignment 3 from Data Catalog
-  3. CX and FL created dataframe and started plot
-  4. JZ mapped dataset from DFDATA 
-  5. JZ refined script and plot
-  6. CX and FL worked on extra credit with JZ finalizing with guidance on parsing date time
+  4. JZ mapped dataset from DFDATA
+  5. CX and FL created dataframe and started plot
+  6. JZ refined script and plot
+  7. CX and FL worked on extra credit with JZ finalizing with guidance on parsing date time
