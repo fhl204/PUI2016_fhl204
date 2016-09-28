@@ -2,9 +2,7 @@
 
 HOMEWORK #3: https://github.com/fedhere/PUI2016_fb55/tree/master/HW3_fb55
 
-Authors:
-
-Chunqing Xu, Franz Loza, Jianghao Zhu, Siyang Sun and Le Xu      
+Authors:  Chunqing Xu, Franz Loza, Jianghao Zhu, Siyang Sun and Le Xu      
   
 Contribution:  
 
