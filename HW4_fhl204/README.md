@@ -7,7 +7,7 @@ Assignment 2
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
-  |||||||||
+MANOVA	| 1, Light On/Off | Dichotomous | 9, larvae activities | Continous | 0 | N/A | 	Do Zebrafish larvae display rich locomotor behaviour upon external stimulation? | Locomotor activity before stimulation = Locomotor activity during/after stimulation | 0.05 | [Statistical Analysis of Zebrafish Locomotor Response](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139521) |
+ Multiple Regression | 2, Month & North Atlantic Oscillation (NAO) climate conditions | continous | 1, Sea ice cover in breeding regions | continous | 0 | N/A | Does climate change affect sea ice cover in seal breeding regions? | Sea ice coverage in years with high NAO index scores = sea ice coverage in years with low NAO index scores  | 0.05 | [The Effects of Climate Change on Harp Seals](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029158) |
   
 
