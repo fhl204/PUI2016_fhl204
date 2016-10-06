@@ -11,9 +11,11 @@ I suggest re-wording the Null Hypothesis to have more clarity -
 Null Hypothesis - The mean commute time for the new bus route (TimeNew.mean()) is the same or longer than mean commute time for the old bus route (TimeOld.mean()) for bus number X8.
 
 A minor suggestion to follow the convention for your Null and Alternate Hypothesis equations. 
+
    H0: TimeNew.mean() >= TimeOld.mean()
    
    Ha: TimeNew.mean() < TimeOld.mean()
+   
 These changes are to state the hypothesis with best clarity.
 
 b. The data you chose supports your project and you also chose the correct variables to answer your question. It is useful to see that you have added good comments and markdown statments with mathematical equations to understand the formula used to calculate the Z Score.
