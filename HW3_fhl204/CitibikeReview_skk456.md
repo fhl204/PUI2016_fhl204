@@ -4,7 +4,7 @@ Hello Franz,
 
 Below is my peer review response for your CitiBike assignment.
 
-### a) NULL & ALTERNATE HYPOTHESIS -
+### a) NULL & ALTERNATE HYPOTHESIS FORMULATION -
 You formulated the question - How is the new bus route for X8 improving commute times?
 From your Null Hypothesis, I understand you are trying to evaluate if the new route for Bus X8 takes less time, on average compared
 to it's old route. Hence, I would suggest to change your question from How to Does the new bus route for X8 has improved average commute time, compared to it's older route. As I understand we are not trying to identify the reasons i.e. the How part when comparing the commute timing. I see that you have correctly formulated the Null and Alternate Hypothesis and also listed the Confidence level - Alpha to 5%
