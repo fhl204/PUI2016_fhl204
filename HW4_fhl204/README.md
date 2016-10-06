@@ -6,7 +6,6 @@ Authors: Chunqing Xu, Franz Loza, Jianghao Zhu
 
 Contributions:
 
-
 Worked collaboratively with CX and JZ on assignments 3 and 4.  Each member providing equal contribution and support.
 
 
