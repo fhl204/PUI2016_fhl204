@@ -4,7 +4,8 @@ HOMEWORK #4: https://github.com/fedhere/PUI2016_fb55/tree/master/HW4_fb55
 
 Authors: Chunqing Xu, Franz Loza, Jianghao Zhu
 
-Contribution:
+Contributions:
+
 
 Worked collaboratively with CX and JZ on assignments 3 and 4.  Each member providing equal contribution and support.
 
