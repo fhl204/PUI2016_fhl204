@@ -8,7 +8,10 @@ Contribution:
 
 Worked collaboratively with CX and JZ on assignments 3 and 4.  Each member providing equal contribution and support.
 
-Assignment 2
+
+
+
+#Assignment 2
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
