@@ -6,7 +6,7 @@ Authors: Chunqing Xu, Franz Loza, Jianghao Zhu, Siyang Sun
 
 Contributions:
 
-Team worked collaboratively on assignments 1 and 2.  Each member provided equal contribution and support.
+Worked collaboratively with CX and JZ on assignments 1 and 2.  Each member provided equal contribution and support.
 
 
 ## Assignment 3: Practice formulating the null hypothesis
@@ -70,4 +70,3 @@ $\alpha$ = 0.05
 
 ALTERNATIVE HYPOTHESIS:
 Children ages between the ages of 1 to 4 whose mother smoked during pregancy score lower in IQ tests than children in the same age whose mother did not smoke during pregancy, significance level p=0.05.
-
