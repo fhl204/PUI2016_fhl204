@@ -6,7 +6,7 @@ Authors: Chunqing Xu, Franz Loza, Jianghao Zhu, Siyang Sun
 
 Contributions:
 
-Worked collaboratively with CX and JZ on assignments 1 and 2.  Each member provided equal contribution and support.
+Team worked collaboratively on assignments 1 and 2.  Each member provided equal contribution and support.
 
 
 ## Assignment 3: Practice formulating the null hypothesis
