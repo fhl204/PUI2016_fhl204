@@ -10,3 +10,7 @@ Team worked collaboratively on assignments 1 and 2.  Each member provided equal 
 For assignment 2 the distribution of work was as follows: JZ - abstract, FL - data, CX - analysis, and SS - results.
 The link to the Authoria write-up here: 
 https://www.authorea.com/users/106035/articles/132573/_show_article?access_token=TDdKSU-OQANL151xvQol_g
+
+
+# FBB
+You have set your article to private and I cannot see it
